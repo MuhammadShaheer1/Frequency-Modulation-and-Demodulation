@@ -26,6 +26,7 @@ The angle modulation is further divided in two types:
 ## Applications
 
 Frequency modulation is widely used in:
+
 > FM radio broadcasting
 > Telemetry
 > Radar
