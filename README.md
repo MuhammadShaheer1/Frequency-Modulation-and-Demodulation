@@ -27,13 +27,13 @@ The angle modulation is further divided in two types:
 
 Frequency modulation is widely used in:
 
-> FM radio broadcasting
-> Telemetry
-> Radar
-> Seismic prospecting and monitoring newborns for seizures via EEG
-> Two-way radio systems
-> Sound synthesis
-> Magnetic tape-recording systems
+- FM radio broadcasting
+- Telemetry
+- Radar
+- Seismic prospecting and monitoring newborns for seizures via EEG
+- Two-way radio systems
+- Sound synthesis
+- Magnetic tape-recording systems
  And some video-transmission systems.
 
 
